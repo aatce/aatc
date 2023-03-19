@@ -82,6 +82,9 @@ header {
   background: url("images/hero/iMac/imac_large.jpg");
 }
 
+.aatce{
+  background: url("images/hero/aatce/large.png");
+}
 /* iphone11pro section */
 
 .iphone-12-pro {
@@ -187,6 +190,9 @@ footer{
 /* TABLET view */
 
 @media screen and (max-width: 1024px) {
+  .aatce{
+    background: url("images/hero/aatce/medium.png");
+  }
   .imac{
     background: url("images/hero/iMac/imac_medium.jpg");
   }
@@ -379,6 +385,9 @@ footer{
 }
 
 @media screen and (max-width: 640px) {
+  .aatce{
+    background: url("images/hero/aatce/small.png");
+  }
   .imac{
     background: url("images/hero/iMac/imac_small.jpg");
   }
