@@ -1,0 +1,3 @@
+Large image = 3000 X 622
+Medium image = 1068 X 617
+Small image = 736 X 548
